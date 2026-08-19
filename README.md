@@ -1,5 +1,19 @@
 # AYA GitHub Practice
 
-This is my first GitHub repository.
+My first GitHub practice repository.
 
-I'm learning GitHub and building my design portfolio.
+## About
+
+This repository is created to practice the basics of GitHub.
+
+## What I Learned
+
+- Creating a repository
+- Editing a README file
+- Uploading files
+- Creating folders
+- Organizing project files
+
+## Tools
+
+- GitHub
